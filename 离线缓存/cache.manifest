@@ -1,0 +1,10 @@
+CACHE MANIFEST
+# version 1.0.0
+
+CACHE:
+	离线缓存.html
+	style.css
+	script.js
+
+NETWORK:
+	*

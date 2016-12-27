@@ -1,0 +1,1 @@
+document.writeln('JS注入的内容');
